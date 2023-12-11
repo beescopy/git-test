@@ -1,3 +1,4 @@
 #!/usr/bin/bash
 #
-echo hello world
+echo hallo welt
+echo und hallo mond
